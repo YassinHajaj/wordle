@@ -13,3 +13,9 @@ It has only french words, but you can use your own dictionary of five letters wo
 In the project directory, you can run:
 
 ### `npm start`
+
+## Gameplay
+
+Here is a picture of the gameplay
+
+![](./gameplay.PNG)
